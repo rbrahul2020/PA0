@@ -1,0 +1,36 @@
+.container
+{
+    display: flex;
+    flex-direction: column;
+    padding-top: 20px;
+    justify-content: center;
+    background-color: lightgreen;
+    height:600px;
+    
+}
+
+.left
+{
+    
+    justify-content: center;
+    /*padding-right: 130px;*/
+    margin: auto;
+}
+
+.right
+{
+    justify-content: center;
+    margin: auto;
+    /*padding-left: 130px;*/
+}
+
+h1
+{
+    text-align: center;
+}
+
+textarea
+{
+    outline: none;
+    font-size: 30px;
+}
